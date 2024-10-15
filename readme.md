@@ -1,7 +1,7 @@
 # AI
 
 ## Overview & terminologies
-When talking about AI, ML, LLM, Generative AI, there are so many terminologies that are interchangeably used. The best way to envision is through a visual aid. 
+When talking about AI, ML, LLM, Generative AI, there are so many terminologies that are interchangeably used. The best way to envision is through a visual aid. The below link shows the co-relation between the different terminologies.
 
 * [AI, ML LLM co-relation](/readme/ai-ml-venndiagram-readme.md)
 
