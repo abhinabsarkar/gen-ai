@@ -14,6 +14,10 @@ When talking about AI, ML, LLM, Generative AI, there are so many terminologies t
 * [Machine Learning](/readme/machine-learning-readme.md)
 * [Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) :memo: 
 
+## Hands-On code
+* [References to sample code from public domain](/readme/code-handson-readme.md)
+* [Embeddings - Hello World - Python](/src/embedding-gen-ai.py)
+
 ## Legends
 * <img src="/images/YouTube-icon-PNG.png" width="15" height="15"> - Refers to video link
 * :memo: - Refers to external link
