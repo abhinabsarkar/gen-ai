@@ -4,6 +4,10 @@ from openai import AzureOpenAI
 from azure.identity import EnvironmentCredential, get_bearer_token_provider
 
 # Authenticate using the Service Principal
+# Add the below values to your environment variables.
+        # AZURE_CLIENT_ID=
+        # AZURE_CLIENT_SECRET=
+        # AZURE_TENANT_ID=
 token_provider = get_bearer_token_provider(
     EnvironmentCredential(),
     "https://cognitiveservices.azure.com/.default"
