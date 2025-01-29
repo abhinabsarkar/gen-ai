@@ -12,4 +12,4 @@ When talking about AI, ML, LLM, Generative AI, there are so many terminologies t
     * [Attention in Language Models](https://cohere.com/llmu/what-is-attention-in-language-models) <img src="/images/YouTube-icon-PNG.png" width="15" height="15">
 * [Neural Network & Deep Learning](/readme/neuralnetwork-deeplearning-readme.md)
 * [Machine Learning](/readme/machine-learning-readme.md)
-* > :memo: [Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) 
+* [Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) > :memo: 
