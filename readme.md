@@ -18,6 +18,7 @@ When talking about AI, ML, LLM, Generative AI, there are so many terminologies t
 * [References to sample code from public domain](/readme/code-handson-readme.md)
 * [Embeddings - Hello World - Python](/src/gen-ai-embedding.py) :memo: 
 * [Chat using Azure OpenAI - Python](/src/gen-ai-chat-console.py) :memo: 
+    * This is also a good example to explain [Prompt & Prompt Engineering](https://learn.microsoft.com/en-us/azure/azure-sql/database/ai-artificial-intelligence-intelligent-applications?view=azuresql#prompts-and-prompt-engineering).
 
 ## Legends
 * <img src="/images/YouTube-icon-PNG.png" width="15" height="15"> - Refers to video link
