@@ -5,10 +5,10 @@
 ### Gen AI references
 * [Authenticating with Azure OpenAI models, using Entra ID](https://github.com/LazaUK/AOAI-EntraIDAuth-SDKv1/tree/main)
 * `Explained by MSFT's John Savill`
-    * [RAG, semantic search, embedding, vector...](https://www.youtube.com/watch?v=orLGv2LgWDE) <img src="/images/YouTube-icon-PNG.png" width="15" height="15">
+    * [RAG, semantic search, embedding, vector](https://www.youtube.com/watch?v=orLGv2LgWDE) <img src="/images/YouTube-icon-PNG.png" width="15" height="15">
 * `Explained via blog & video - Luis Serrano - Cohere`
     * [Transformer Models](https://docs.cohere.com/docs/transformer-models)
-        * [Transformers, explained: Understand the model behind GPT, BERT, and T5](https://www.youtube.com/watch?v=SZorAJ4I-sA) - `Better Explanation - Google's Dale` <img src="/images/YouTube-icon-PNG.png" width="15" height="15">
+        * [Transformers, explained: Understand the model behind GPT, BERT, and T5](https://www.youtube.com/watch?v=SZorAJ4I-sA) <img src="/images/YouTube-icon-PNG.png" width="15" height="15"> - `Better Explanation by Dale (Google)` 
     * [Text embeddings / Word & Sentence Embeddings](https://cohere.com/blog/sentence-word-embeddings)
     * [Semantic Search](https://cohere.com/blog/what-is-semantic-search)
 
