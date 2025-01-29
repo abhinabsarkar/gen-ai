@@ -12,12 +12,12 @@ When talking about AI, ML, LLM, Generative AI, there are so many terminologies t
     * [Attention in Language Models](https://cohere.com/llmu/what-is-attention-in-language-models) <img src="/images/YouTube-icon-PNG.png" width="15" height="15">
 * [Neural Network & Deep Learning](/readme/neuralnetwork-deeplearning-readme.md)
 * [Machine Learning](/readme/machine-learning-readme.md)
-* [Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) :memo: 
+* [Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) 
 
 ## Hands-On code
 * [References to sample code from public domain](/readme/code-handson-readme.md)
-* [Embeddings - Hello World - Python](/src/embedding-gen-ai.py)
+* [Embeddings - Hello World - Python](/src/embedding-gen-ai.py) :memo: 
 
 ## Legends
 * <img src="/images/YouTube-icon-PNG.png" width="15" height="15"> - Refers to video link
-* :memo: - Refers to external link
+* :memo: - Refers to sample code
