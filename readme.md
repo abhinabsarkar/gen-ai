@@ -16,7 +16,8 @@ When talking about AI, ML, LLM, Generative AI, there are so many terminologies t
 
 ## Hands-On code
 * [References to sample code from public domain](/readme/code-handson-readme.md)
-* [Embeddings - Hello World - Python](/src/embedding-gen-ai.py) :memo: 
+* [Embeddings - Hello World - Python](/src/gen-ai-embedding.py) :memo: 
+* [Chat using Azure OpenAI - Python](/src/gen-ai-chat-console.py) :memo: 
 
 ## Legends
 * <img src="/images/YouTube-icon-PNG.png" width="15" height="15"> - Refers to video link
